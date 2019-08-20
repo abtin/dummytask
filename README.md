@@ -5,7 +5,7 @@ It can be used to simulate high CPU loads when testing compute grids.
 To build:
   -  On Mac/Linux/Windows:
 
-            $ go build
+         $ go build
   - On Mac/Windows for linux:
   
         $ make linux
